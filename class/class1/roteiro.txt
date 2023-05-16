@@ -1,0 +1,5 @@
+Passo 1: Acessar o sistema da empresa
+PAsso 2: Fazer login na empresa
+Passo 3: Baixar a base de dados
+Passo 4: Calcular os indicadores
+Passo 5: Enviar o email para a diretoria/para o chefe
