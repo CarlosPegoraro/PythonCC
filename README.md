@@ -1,14 +1,19 @@
-# Intensivão Python em 4 Dias
-## Bem-vindo ao repositório do Intensivão Python em 4 Dias! Aqui você encontrará uma base de códigos para consulta feitos durante nosso programa intensivo.
+# Python Intensive in 4 Days
+## Welcome to the repository for the Python Intensive in 4 Days! Here you will find a codebase for reference developed during our intensive program.
 
-## Descrição
-Este repositório contém uma variedade de códigos em Python desenvolvidos durante nosso intensivo de 4 dias. Os códigos abrangem uma ampla gama de tópicos, desde conceitos básicos até projetos mais avançados. Use este repositório como uma referência prática para aprimorar suas habilidades em Python.
+## Description
+This repository contains a variety of Python codes developed during our 4-day intensive program. The codes cover a wide range of topics, from basic concepts to more advanced projects. Use this repository as a practical reference to enhance your Python skills.
 
-## Conteúdo
-Pasta Fundamentos: Exemplos de códigos abordando os fundamentos essenciais da linguagem Python.
-Pasta Projetos: Projetos práticos que o ajudarão a aplicar os conceitos aprendidos durante o intensivão.
-Pasta Recursos: Materiais adicionais, como cheatsheets, links úteis e documentação relevante.
-Como Usar
-Sinta-se à vontade para explorar as pastas e navegar pelos códigos. Cada pasta contém seus próprios arquivos e instruções específicas para executar ou utilizar os códigos fornecidos.
+## Contents
+Fundamentals Folder: Examples of codes covering the essential foundations of the Python language.
+Projects Folder: Practical projects that will help you apply the concepts learned during the intensive program.
+Resources Folder: Additional materials such as cheatsheets, useful links, and relevant documentation.
+How to Use
+Feel free to explore the folders and navigate through the codes. Each folder contains its own files and specific instructions to execute or utilize the provided codes.
 
-# Intensivão gratuito proposto pelo canal <a href="https://www.youtube.com/@HashtagProgramacao">Hashtag Programação</a>
+## Contribution
+If you would like to contribute to this repository, feel encouraged to open a pull request. Every contribution is welcome!
+
+We hope you enjoy this repository and find it useful in strengthening your Python skills. Happy learning!
+
+Intensive program offered for free by the <a href="https://www.youtube.com/@HashtagProgramacao">Hashtag Programação</a> channel.
