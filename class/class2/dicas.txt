@@ -1,0 +1,18 @@
+Em todo projeto, primeiro:
+    1-) Entender as informacoes que voce tem disponivel
+    2-) Procurar os erros da base de dados
+
+Ao analisar a base de dados:
+    1-) Verificar os valores que estao no formato errado
+    2-) e depois os valores que estao vazios
+
+Ferramentas para criar graficos: plotly / matplotlib / seaborn
+
+Ordem para criar graficos:
+    1-) Cria o graficos (px.(modelo do grafico))
+    2-) Mostra o grafico (px.show())
+
+Tipos de variaveis:
+    int = numeros inteiros
+    object = texto
+    float = numeros com casa decimal

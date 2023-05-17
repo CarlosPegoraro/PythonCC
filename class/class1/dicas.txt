@@ -1,0 +1,3 @@
+Analizar qual sistema vai ser automatizado
+Verificar se a automacao é eficiente
+verificar quais os possiveis problemas disso
