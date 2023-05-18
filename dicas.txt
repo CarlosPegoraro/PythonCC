@@ -1,0 +1,5 @@
+1-) Sem que abrir uma conexao, voce deve fechar-la
+
+2-) Comandos para edicao e visualizacao do database:
+    a-) conexao.commit() -> edita o banco de dados
+    b-) cursor.fetchall() -> ler o banco de dados
