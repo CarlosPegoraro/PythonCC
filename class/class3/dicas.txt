@@ -1,0 +1,4 @@
+comandos para find.element:
+    .sed_keys("meu nome é carlos") -> escrever
+    .click() -> clicar
+    .get_attribute() -> pegar uma informacao
