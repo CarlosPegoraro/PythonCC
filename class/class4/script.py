@@ -1,7 +1,3 @@
-# Passo 1: Entendimento do Desafio
-
-# Passo 2: Entendimento da Área/Empresa
-
 # Passo 3: Extração/Obtenção de Dados
 import pandas as pd
 
@@ -57,8 +53,8 @@ print(metrics.r2_score(y_teste, previsao_regressaolinear))
 print(metrics.r2_score(y_teste, previsao_arvoredecisao))  
 
 # Passo 7: Interpretação de Resultados
-tabela_auxiliar["y_teste"] = y_teste
 tabela_auxiliar = pd.DataFrame()
+tabela_auxiliar["y_teste"] = y_teste
 tabela_auxiliar["Previsoes ArvoreDecisao"] = previsao_arvoredecisao
 tabela_auxiliar["Previsoes Regressao Linear"] = previsao_regressaolinear
 
